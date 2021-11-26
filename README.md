@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zythe 
-- 👀 I’m interested in acting, art, and singing
-- 🌱 I’m currently learning self thought art and singing, and In a production class
-- 💞️ I’m looking to collaborate on mostly just art for self purposes
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me trough here
 
 <!---
