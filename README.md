@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Zythe 
-- 👀 I’m interested 
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate 
 - 📫 How to reach me trough here
 
 <!---
